@@ -1,0 +1,69 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+
+# IDE / Editors
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+*~
+*.swp
+*.swo
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+*.bak
+npm-debug.log*
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials.json
+
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Build / Dist
+dist/
+build/
+*.egg-info/
+*.egg
+target/
+out/
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+
+# Misc
+*.bak
+*.swp
+Session.vim
+.netrwhist
+*~
