@@ -4,13 +4,15 @@ Personal workspace initialized for development with Grok Build TUI / agent tooli
 
 ## Status
 - Git initialized (main branch)
+- Connected to GitHub: https://github.com/fpuzzles/grok-build
 - Basic project scaffolding
 
 ## Next steps
-- Add your code / files
-- Connect a remote (see git setup guide)
-- Commit and push
+- Add your code and files
+- Make commits and push
+- Use Grok agent + GitHub MCP tools for advanced workflows
 
 ## Notes
-- User git config: Alex Kolesnik <alex@alirko.com>
-- macOS credential helper configured
+- Local git user: Alex Kolesnik <alex@alirko.com>
+- macOS credential helper (osxkeychain) configured
+- Remote managed via Grok's GitHub integration
